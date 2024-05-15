@@ -1,5 +1,7 @@
 # Pump.Fun Launch Bundle Tool
 
+# UNDETECTED
+
 Welcome to **Pump.Fun Launch Bundle Tool** - the ultimate solution for maximizing the potential of your launches on the Solana chain. 
 
 This tool offers the best, fastest, and most efficient self-bundling scripts, enabling you to create a pool with your own 25 buyers in one single bundle.
