@@ -1,6 +1,6 @@
 # Pump.Fun Launch Bundle Tool
 
-# UNDETECTED
+# ⚠️UNDETECTED⚠️
 
 Welcome to **Pump.Fun Launch Bundle Tool** - the ultimate solution for maximizing the potential of your launches on the Solana chain. 
 
