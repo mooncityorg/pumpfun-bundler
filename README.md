@@ -63,7 +63,7 @@ To get started with the Pump.Fun Launch Bundle Tool, follow these steps:
     ```
 5. Edit the config file:
     ```plaintext
-    SOLANA_RPC_URL=https://api.mainnet-beta.solana.com
+    SOLANA_RPC_URL=<your-rpc>
     PRIVATE_KEY=<your-private-key-bs58>
     ```
 6. Start the application:
