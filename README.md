@@ -12,6 +12,7 @@ Support in running the tool is included in the price.
 
 Watch out for other scammers on GitHub - they either sell my outdated program which has been closed or simply selling blank files.
 
+Specifically Bigmovers - he is stealing my code and reselling broken code.  BE AWARE!!!
 
 
 **Other tools**
