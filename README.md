@@ -21,6 +21,12 @@ Specifically Bigmovers - he is stealing my code and reselling broken code.  BE A
 - Raydium JITO Bundler
 - Raydium Non-JITO Bundler
 
+# Support:
+Joing my discord:
+
+Server: https://discord.gg/YExjxwYS3J
+
+My discord: testicklez
 
 ## Features
 
@@ -78,10 +84,4 @@ To get started with the Pump.Fun Launch Bundle Tool, follow these steps:
 2. Start the bundling process and let the tool handle the rest automatically.
 3. Profit
 
-# Support:
-Joing my discord:
-
-Server: https://discord.gg/YExjxwYS3J
-
-My discord: testicklez
 
