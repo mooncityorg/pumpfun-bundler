@@ -1,6 +1,12 @@
-# Pump.Fun Launch Bundle Tool
+# 🚨 SCAMMERS 🚨
 
-# ⚠️UNDETECTED⚠️
+I own all rights to the code floating around and I can prove it all onchain that I own the program address...
+
+Specifically Bigmovers and lawsuit - he is stole and reselling broken code.  BE AWARE!!!
+
+# ⚠️ UNDETECTED ⚠️
+
+# Pump.Fun Launch Bundle Tool
 
 Welcome to **Pump.Fun Launch Bundle Tool** - the ultimate solution for maximizing the potential of your launches on the Solana chain. 
 
@@ -11,8 +17,6 @@ This tool offers the best, fastest, and most efficient self-bundling scripts, en
 Support in running the tool is included in the price.
 
 Watch out for other scammers on GitHub - they either sell my outdated program which has been closed or simply selling blank files.
-
-Specifically Bigmovers - he is stealing my code and reselling broken code.  BE AWARE!!!
 
 
 **Other tools**
