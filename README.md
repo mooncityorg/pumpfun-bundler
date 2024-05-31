@@ -2,7 +2,7 @@
 
 I own all rights to the code floating around and I can prove it all onchain that I own the program address...
 
-Specifically **Bigmovers and lawsuit** - they stole and are reselling **MY** broken code.  BE AWARE!!!
+Specifically **Bigmovers and lawsuit** - they stole and are reselling **MY** broken code.  BE AWARE!!!!
 
 # ⚠️ UNDETECTED ⚠️
 
