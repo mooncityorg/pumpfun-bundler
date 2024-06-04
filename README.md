@@ -25,7 +25,7 @@ Watch out for other scammers on GitHub - they either sell my outdated program wh
 - Raydium JITO Bundler
 - Raydium Non-JITO Bundler
 
-# Support:
+# Support & Vouches:
 Joing my discord:
 
 Server: https://discord.gg/YExjxwYS3J
