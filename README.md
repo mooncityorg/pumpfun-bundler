@@ -1,8 +1,10 @@
 # 🚨 SCAMMERS 🚨
 
-I own all rights to the code floating around and I can prove it all onchain that I own the program address...
+I own all rights and originality to the code floating around.
 
-Specifically **Bigmovers and lawsuit** - they stole and are reselling **MY** broken code.  BE AWARE!
+Don't get scammed by resellers or people impersonating me.
+
+You have been warned.
 
 # ⚠️ UNDETECTED ⚠️
 
