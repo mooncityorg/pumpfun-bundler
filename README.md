@@ -1,8 +1,6 @@
 # 🚨 SCAMMERS 🚨
 
-I own all rights and originality to the code floating around.
-
-Don't get scammed by resellers or people impersonating me.
+Watch out for other scammers on GitHub - they either sell my outdated program which has been closed or simply selling blank files.
 
 You have been warned.
 
@@ -17,8 +15,6 @@ This tool offers the best, fastest, and most efficient self-bundling scripts, en
 **TELEGRAM** for contact & **POC** (Proof of Concept) & **VOUCHES**: [@testicklez](https://t.me/testicklez)
 
 Support in running the tool is included in the price.
-
-Watch out for other scammers on GitHub - they either sell my outdated program which has been closed or simply selling blank files.
 
 
 **Other tools**
